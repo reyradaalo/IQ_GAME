@@ -24,5 +24,5 @@ Just download the GitHub zip or clone.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/reyradaalo/IQ_GAME.git
+cd IQ_GAME
