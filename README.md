@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-![IQ Game](https://your-image-url.com/iq-game.png) <!-- Replace with the actual URL of your image -->
+![IQ Game](https://raw.githubusercontent.com/reyradaalo/IQ_GAME/71b8a70adbb7f6e61d38985006a7b7e8a481d164/Screenshot%20(1).png) <!-- Replace with the actual URL of your image -->
 
 ## Introduction
 
