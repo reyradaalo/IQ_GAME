@@ -17,6 +17,8 @@ Welcome to the IQ Game, an engaging and interactive platform designed to challen
 - Medium Difficulty
 - Hard Difficulty
 
+![Features](https://raw.githubusercontent.com/reyradaalo/IQ_GAME/71b8a70adbb7f6e61d38985006a7b7e8a481d164/Screenshot%20(2).png)
+
 ## Installation
 
 Just download the GitHub zip or clone.
